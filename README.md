@@ -16,12 +16,17 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/15_z8-oFvLvqo_35Hp8C8Eat-kOMbBcJP/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!\
 \
 <a href="https://twitter.com/canbekli_fatih">
-  <img align="center" alt="Fatih's Twitter | Twitter" width="55px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Fatih's Twitter | Twitter" width="55px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/untitled-3_54.png?hNSyr6dNSgZw7.xkKXZAlQeXmN_K6pfC&itok=2fOBAWwZ" />
 </a>
 &nbsp;
 &nbsp;
 <a href="https://www.linkedin.com/in/fatih-canbekli-275697152/">
   <img align="center" alt="Fatih's LinkedIN" width="55px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+&nbsp;
+&nbsp;
+<a href="https://www.artstation.com/ua3357ab6">
+  <img align="center" alt="Fatih's ArtStation" width="55px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 # 🧶 &nbsp;Projects
