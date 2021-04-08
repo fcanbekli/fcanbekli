@@ -41,4 +41,5 @@ scripting. [Squirrel Engine](https://github.com/Squirrel-Engine)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-05122A?style=for-the-badge&logo=unrealengine)&nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity)&nbsp;![Maya](https://img.shields.io/badge/-Maya-05122A?style=for-the-badge&logo=maya)&nbsp;![Houdini](https://img.shields.io/badge/-Houdini-05122A?style=for-the-badge&logo=houdini)&nbsp;![Substance](https://img.shields.io/badge/-Substance-05122A?style=for-the-badge&logo=substance)&nbsp;
 --
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=StrahdVonZarovich&show_icons=true&theme=gotham" alt="strahdvonzarovich" />
-<p align="center"> <img src="https://www.codewars.com/users/StrahdVonZarovich/badges/larg" alt="strahdvonzarovich" />
+
+![My Codewarrior Profile Badge](https://www.codewars.com/users/StrahdVonZarovich/badges/larg)
