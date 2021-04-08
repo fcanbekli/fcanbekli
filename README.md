@@ -42,4 +42,4 @@ scripting. [Squirrel Engine](https://github.com/Squirrel-Engine)
 --
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=StrahdVonZarovich&show_icons=true&theme=gotham" alt="strahdvonzarovich" />
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/StrahdVonZarovich/badges/larg)
+![My Codewarrior Profile Badge](https://www.codewars.com/users/StrahdVonZarovich/badges/large)
