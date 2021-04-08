@@ -28,7 +28,8 @@
 ### 🐿 &nbsp;Squirrel Engine
 Squirrel Engine is a game engine that runs efficiently on multi-core processors. It is presented as my graduation project. I work extensively on the general architecture and multithreading parts of the project. I also support parts such as to render engine, compiler and
 scripting. [Squirrel Engine](https://github.com/Squirrel-Engine)
-
+&nbsp;
+&nbsp;
 # 🛠 &nbsp;Tech Stack
 🔮 ***Computer Graphics***
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
