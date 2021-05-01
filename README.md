@@ -7,7 +7,7 @@
 
 # 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to work on  challanging technologies like computer graphics or VLSI.\
+💡 &nbsp;I like to work on  challenging technologies like computer graphics or VLSI.\
 🎓 &nbsp;Graduated from Yaşar University \
 🌱 &nbsp;I'm on track for learning more about Microprocessor Design, Computer Graphics and LLVM.\
 ✍️ &nbsp;In my free time, I work on 3D Art as hobbies/side hustles.\
