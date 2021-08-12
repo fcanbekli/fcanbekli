@@ -7,9 +7,9 @@
 
 # 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to work on  challenging technologies like computer graphics or VLSI.\
+💡 &nbsp;I like to work on challenging technologies like computer graphics or VLSI.\
 🎓 &nbsp;Graduated from Yaşar University \
-🌱 &nbsp;I'm on track for learning more about Microprocessor Design, Computer Graphics and LLVM.\
+🌱 &nbsp;I'm on track for learning more about Microprocessor Design, Computer Graphics and Game Engine Development.\
 ✍️ &nbsp;In my free time, I work on 3D Art as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at fatih.canbekli@outlook.com! I'll try to respond as soon as I can.\
