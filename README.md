@@ -39,6 +39,16 @@ scripting. [Squirrel Engine](https://github.com/Squirrel-Engine)
 A Vulkan-based renderer prototype. It's a project that helps me to learn the basic concepts of Vulkan. Still under development. [Vulkan Renderer](https://github.com/StrahdVonZarovich/Vulkan-Renderer)
 &nbsp;
 &nbsp;
+
+### ✨ &nbsp;Realistic FPS Game Mechanics
+Realistic FPS game mechanics project developed with Unreal Engine 5. I actively use new technologies such as Niagara and lumen in this project. [Realistic FPS Game Mechanics](https://github.com/StrahdVonZarovich/Realistic-FPS-Game-Mechanics)
+&nbsp;
+&nbsp;
+
+### 💽 &nbsp;SQLite Plugin
+SQLite plugin for Unreal Engine 5. [SQLite Plugin](https://github.com/StrahdVonZarovich/SQLitePlugin_UE5)
+&nbsp;
+&nbsp;
 # 🛠 &nbsp;Tech Stack
 🔮 ***Computer Graphics***
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
