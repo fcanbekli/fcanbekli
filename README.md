@@ -1,6 +1,4 @@
 
-<img src="https://media.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="1000" height="400" />
-
 
  # 👋 &nbsp;Hey there! I'm Fatih
 
