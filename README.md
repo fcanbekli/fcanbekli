@@ -52,9 +52,6 @@ SQLite plugin for Unreal Engine 5. [SQLite Plugin](https://github.com/StrahdVonZ
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=for-the-badge&logo=opengl)&nbsp;![DirectX](https://img.shields.io/badge/-DirectX-05122A?style=for-the-badge&logo=directx)&nbsp;![GLSL](https://img.shields.io/badge/-GLSL-05122A?style=for-the-badge&logo=glsl)&nbsp;
 --
-💻 ***VLSI*** 
-![LLVM](https://img.shields.io/badge/-LLVM-05122A?style=for-the-badge&logo=llvm)&nbsp;![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=for-the-badge&logo=)&nbsp;![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=for-the-badge&logo=verilog)&nbsp;![Vivado](https://img.shields.io/badge/-Vivado-05122A?style=for-the-badge&logo=vivado)&nbsp;
---
 🎮 ***Game Development*** 
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-05122A?style=for-the-badge&logo=unrealengine)&nbsp;![Unity](https://img.shields.io/badge/-Unity-05122A?style=for-the-badge&logo=unity)&nbsp;![Maya](https://img.shields.io/badge/-Maya-05122A?style=for-the-badge&logo=maya)&nbsp;![Houdini](https://img.shields.io/badge/-Houdini-05122A?style=for-the-badge&logo=houdini)&nbsp;![Substance](https://img.shields.io/badge/-Substance-05122A?style=for-the-badge&logo=substance)&nbsp;
 --
