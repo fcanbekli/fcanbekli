@@ -33,6 +33,12 @@ Squirrel Engine is a game engine that runs efficiently on multi-core processors.
 scripting. [Squirrel Engine](https://github.com/Squirrel-Engine)
 &nbsp;
 &nbsp;
+
+### 🏎️ &nbsp;Volt Recharge
+In this RC racing game, which has garnered over 300,000 views on YouTube and more than 20,000 wishlists, I contributed to the development of the physics engine, gameplay mechanics, and netcode.
+&nbsp;
+&nbsp;
+
 ### 🌋 &nbsp;Vulkan Renderer
 A Vulkan-based renderer prototype. It's a project that helps me to learn the basic concepts of Vulkan. Still under development. [Vulkan Renderer](https://github.com/StrahdVonZarovich/Vulkan-Renderer)
 &nbsp;
@@ -40,11 +46,6 @@ A Vulkan-based renderer prototype. It's a project that helps me to learn the bas
 
 ### ✨ &nbsp;Realistic FPS Game Mechanics
 Realistic FPS game mechanics project developed with Unreal Engine 5. I actively use new technologies such as Niagara and lumen in this project. [Realistic FPS Game Mechanics](https://github.com/StrahdVonZarovich/Realistic-FPS-Game-Mechanics)
-&nbsp;
-&nbsp;
-
-### 🏎️ &nbsp;Volt Recharge
-An RC racing game that has over 300k views on Youtube and over 20k wishlists. In this project I worked on the physics engine, gameplay and netcode.
 &nbsp;
 &nbsp;
 
