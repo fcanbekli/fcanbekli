@@ -43,6 +43,11 @@ Realistic FPS game mechanics project developed with Unreal Engine 5. I actively 
 &nbsp;
 &nbsp;
 
+### 🏎️ &nbsp;Volt Recharge
+An RC racing game that has over 300k views on Youtube and over 20k wishlists. In this project I worked on the physics engine, gameplay and netcode.
+&nbsp;
+&nbsp;
+
 ### 💽 &nbsp;SQLite Plugin
 SQLite plugin for Unreal Engine 5. [SQLite Plugin](https://github.com/StrahdVonZarovich/SQLitePlugin_UE5)
 &nbsp;
