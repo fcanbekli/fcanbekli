@@ -35,7 +35,7 @@ scripting. [Squirrel Engine](https://github.com/Squirrel-Engine)
 &nbsp;
 
 ### 🏎️ &nbsp;Volt Recharge
-In this RC racing game, which has garnered over 300,000 views on YouTube and more than 20,000 wishlists, I contributed to the development of the physics engine, gameplay mechanics, and netcode.
+In this RC racing game, which has garnered over 700,000 views on YouTube and more than 25,000 wishlists, I contributed to the development of the physics engine, gameplay mechanics, and netcode.
 &nbsp;
 &nbsp;
 
