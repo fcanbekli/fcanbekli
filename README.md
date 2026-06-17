@@ -11,7 +11,7 @@
 ✍️ &nbsp;In my free time, I work on 3D Art as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at fatih.canbekli@outlook.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/14huq77s5A146EaFkZrbeD2NnyqIO1d_N/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1INC4KhrkKaSk--YpA90GqOZdrAmV3pag/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 \
 <a href="https://twitter.com/canbekli_fatih">
   <img align="center" alt="Fatih's Twitter | Twitter" width="55px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
